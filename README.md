@@ -8,3 +8,6 @@
 qod-dante/qod-dante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!---
+<a href="https://data.typeracer.com/pit/profile?user=dante_the_samurai&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=dante_the_samurai" border="0" alt="TypeRacer.com scorecard for user dante_the_samurai"/></a>
+--->
