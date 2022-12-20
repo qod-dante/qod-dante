@@ -19,6 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 1. [News Homepage](https://www.frontendmentor.io/solutions/news-homepage-SVTW3-9ZPd)
 
-I gotta admit, I had never used CSS grid before I started this project, but it definitely made for good practicing material! 😁 (So much so that I mostly forgot how to use Flexbox. Sheesh. 😅)
+I gotta admit, I had never used CSS grid before I started this project, but it definitely made for good practicing material, and I absolutely loved it! 😁 (So much so that I mostly forgot how to use Flexbox. Sheesh. 😅)
 
 2. Notifications Page (Currently in progress)
