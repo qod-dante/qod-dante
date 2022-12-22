@@ -21,7 +21,9 @@ You can click the Preview link to take a look at your changes.
 
 I gotta admit, I had never used CSS grid before I started this project, but it definitely made for good practicing material, and I absolutely loved it! 😁 (So much so that I mostly forgot how to use Flexbox. Sheesh. 😅)
 
-2. Notifications Page (Currently in progress)
+## 2. [Notifications Page (Currently in progress)](https://qod-dante.github.io/Notifications-Page-by-qod-dante/)
+
+I'm approaching this one with CSS grid too. Wonder how it will turn out... 🤔
 
 <!---
 Access Token for Coderankers Profile 2022/12/20 22:44
