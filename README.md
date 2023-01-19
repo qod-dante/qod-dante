@@ -10,9 +10,13 @@ qod-dante/qod-dante is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <!---
+This is my Typeracer badge:
 <a href="https://data.typeracer.com/pit/profile?user=dante_the_samurai&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=dante_the_samurai" border="0" alt="TypeRacer.com scorecard for user dante_the_samurai"/></a>
 --->
-
+<!---
+Here's my IQ test badge:
+<a href="http://www.free-iqtest.net" title="IQ Test"><img src="http://www.free-iqtest.net/images/badges2/l129.gif" width="200" height="100" alt="IQ Test" border="0"></a>
+--->
 ---
 
 # My Projects on Frontend Mentor
