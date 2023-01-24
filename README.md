@@ -27,7 +27,8 @@ I gotta admit, I had never used CSS grid before I started this project, but it d
 
 ## 2. [Notifications Page (Currently in progress)](https://qod-dante.github.io/Notifications-Page-by-qod-dante/)
 
-I'm approaching this one with CSS grid too. Wonder how it will turn out... 🤔
+- I'm approaching this one with CSS grid too. Wonder how it will turn out... 🤔
+- 2023/01/24: I've been struggling with properly learning JavaScript for quite some time now... 🤦‍♂️ it's definetely not easy to learn when you're using a 'learn-in-the-project' approach 😞
 
 <!---
 Access Token for Coderankers Profile 2022/12/20 22:44
