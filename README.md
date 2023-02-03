@@ -25,10 +25,13 @@ Here's my IQ test badge:
 
 I gotta admit, I had never used CSS grid before I started this project, but it definitely made for good practicing material, and I absolutely loved it! 😁 (So much so that I mostly forgot how to use Flexbox. Sheesh. 😅)
 
-## 2. [Notifications Page (Currently in progress)](https://qod-dante.github.io/Notifications-Page-by-qod-dante/)
+## 2. [Notifications Page](https://qod-dante.github.io/Notifications-Page-by-qod-dante/)
 
 - I'm approaching this one with CSS grid too. Wonder how it will turn out... 🤔
 - 2023/01/24: I've been struggling with properly learning JavaScript for quite some time now... 🤦‍♂️ it's definetely not easy to learn when you're using a 'learn-in-the-project' approach 😞
+- 2023/02/02 11:23 PM: FINALLY! Finished the project. Anti-climatically. ✔️
+
+## 3. [Interactive Card Details Form](#)
 
 <!---
 Access Token for Coderankers Profile 2022/12/20 22:44
