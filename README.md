@@ -31,7 +31,7 @@ I gotta admit, I had never used CSS grid before I started this project, but it d
 - 2023/01/24: I've been struggling with properly learning JavaScript for quite some time now... 🤦‍♂️ it's definetely not easy to learn when you're using a 'learn-in-the-project' approach 😞
 - 2023/02/02 11:23 PM: FINALLY! Finished the project. Anti-climatically. ✔️
 
-## 3. [Interactive Card Details Form (In Progress)](https://qod-dante.github.io/Interactive-Card-Details-Form/)
+## 3. [Interactive Card Details Form (In Progress)](https://qod-dante.github.io/Interactive-CDF/)
 
 <!---
 Access Token for Coderankers Profile 2022/12/20 22:44
