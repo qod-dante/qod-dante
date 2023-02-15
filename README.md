@@ -34,6 +34,7 @@ I gotta admit, I had never used CSS grid before I started this project, but it d
 ## 3. [Interactive Card Details Form (In Progress)](https://qod-dante.github.io/Interactive-CDF/)
 
 - Feb 14, 2023 3:52 PM: Valentines ❤️ Day! Yep! Still studying on this day! That was a little tougher than I thought 🥵! This would be the first time I've used CSS positions this extensively. I managed to position the cards as best as I could for the mobile version (600-px). I consider that a milestone. Next up is the form, which I'm sure will be a cinch 😼.
+- Feb 15, 2023 3:48 PM: I knew the forms will be a cinch 😁! With the mobile version for small devices out of the way, next up is for bigger devices (Tablets, iPads, etc.).
 
 <!---
 Access Token for Coderankers Profile 2022/12/20 22:44
