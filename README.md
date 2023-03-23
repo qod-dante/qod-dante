@@ -31,10 +31,11 @@ I gotta admit, I had never used CSS grid before I started this project, but it d
 - Jan 24, 2023 6:28 PM: I've been struggling with properly learning JavaScript for quite some time now... 🤦‍♂️ it's definetely not easy to learn when you're using a 'learn-in-the-project' approach 😞
 - Feb 02, 2023 11:23 PM: FINALLY! Finished the project. Anti-climatically. ✔️
 
-## 3. [Interactive Card Details Form (In Progress)](https://qod-dante.github.io/Interactive-CDF/)
+## 3. [Interactive Card Details Form (ON HIATUS)](https://qod-dante.github.io/Interactive-CDF/)
 
 - Feb 14, 2023 3:52 PM: Valentines ❤️ Day! Yep! Still studying on this day! That was a little tougher than I thought 🥵! This would be the first time I've used CSS positions this extensively. I managed to position the cards as best as I could for the mobile version (600-px). I consider that a milestone. Next up is the form, which I'm sure will be a cinch 😼.
 - Feb 15, 2023 3:48 PM: I knew the forms will be a cinch 😁! With the mobile version for small devices out of the way, next up is for bigger devices (Tablets, iPads, etc.).
+- Mar 23, 2023 5:29 PM: I'm putting this project on hold for now. Until I'm able to figure out how to automatically add spaces after every 4 digits for the credit card number.
 
 <!---
 Access Token for Coderankers Profile 2022/12/20 22:44
