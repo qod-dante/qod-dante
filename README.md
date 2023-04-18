@@ -33,16 +33,10 @@ I gotta admit, I had never used CSS grid before I started this project, but it d
 
 ## 3. [Interactive Card Details Form (ON HIATUS)](https://qod-dante.github.io/Interactive-CDF/)
 
-- Feb 14, 2023 3:52 PM: Valentines ❤️ Day! Yep! Still studying on this day! That was a little tougher than I thought 🥵! This would be the first time I've used CSS positions this extensively. I managed to position the cards as best as I could for the mobile version (600-px). I consider that a milestone. Next up is the form, which I'm sure will be a cinch 😼.
+- Feb 14, 2023 3:52 PM: Valentines ❤️ Day! Yep! Still studying even on this day! That was a little tougher than I thought 🥵! This would be the first time I've used CSS positions this extensively. I managed to position the cards as best as I could for the mobile version (600-px). I consider that a milestone. Next up is the form, which I'm sure will be a cinch 😼.
 - Feb 15, 2023 3:48 PM: I knew the forms will be a cinch 😁! With the mobile version for small devices out of the way, next up is for bigger devices (Tablets, iPads, etc.).
 - Mar 23, 2023 5:29 PM: I'm putting this project on hold for now. Until I'm able to figure out how to automatically add spaces after every 4 digits for the credit card number.
 
-<!---
-Access Token for Coderankers Profile 2022/12/20 22:44
-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
---->
-<!---
-Updated Access Token for Coderankers Profile 14:17 2023/03/14
-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
-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
---->
+## 4. [Fylo Dark Theme Landing Page](https://qod-dante.github.io/Fylo-Dark-Theme-Landing-Page/)
+
+- Apr 18, 2023 1:20 PM: Been busy with life's challenges. Anyway,  the design notes say the smallest screen size for the design should be 375px. But when I saw the mobile design image, it was 750px, which creates a problem for the `nav` in the `header` section. Unless I decrease the `font-size` or dimensions for the `nav` links, I don't see a way to properly fit the `nav` links, except for one way, and that is to make a collapsible side menu (as is standard for small mobile devices).
